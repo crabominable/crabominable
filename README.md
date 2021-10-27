@@ -1,7 +1,7 @@
 ### Oii!! Eu sou o Lucas Pinheiro
 
 - Estudando Desenvolvimento Web na Trybe
-- Desenvolvedor Front-end na Code Atoms
+- Desenvolvedor da Zoofle
 </br>
 <div align="left">
   <a href="https://github.com/crabominable">
