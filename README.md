@@ -1,4 +1,4 @@
-### Oii!! Eu sou o Lucas Pinheiro
+### Oii!! Meu nome é Lucas Pinheiro
 
 - Estudando Desenvolvimento Web na Trybe
 - Desenvolvedor da Zoofle
