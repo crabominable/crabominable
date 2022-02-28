@@ -1,7 +1,6 @@
-### Oii!! Meu nome é Lucas Pinheiro
+### Oi, meu nome é Lucas Pinheiro e seja bem-vindo ao meu perfil!
 
 - Estudando Desenvolvimento Web na Trybe
-- Desenvolvedor da Zoofle
 </br>
 <div align="left">
   <a href="https://github.com/crabominable">
