@@ -1,4 +1,4 @@
-### Oi, meu nome é Lucas Pinheiro e seja bem-vindo ao meu perfil!
+### Bem-vindo ao meu perfil!
 
 - Estudando Desenvolvimento Web na Trybe
 </br>
