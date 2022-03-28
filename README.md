@@ -1,7 +1,7 @@
 ### Welcome to my profile!
 
-<p><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fajuda.betrybe.com%2Fhc%2Fpt-br%2Farticles%2F360056299454-O-que-a-Trybe-%25C3%25A9-&psig=AOvVaw2GB9xkrIGNnKyRMfXtV0LY&ust=1648585936776000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMigkqvT6fYCFQAAAAAdAAAAABAD"/>Web developer student at Trybe</p> 
-
+🖥️ - Web developer student at Trybe
+🧑‍💻 - Systems analyst and developer at Uninter
 
 </br>
 <div align="left">
