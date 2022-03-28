@@ -1,6 +1,8 @@
-### Bem-vindo ao meu perfil!
+### Welcome to my profile!
 
-- Estudando Desenvolvimento Web na Trybe
+<p><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fajuda.betrybe.com%2Fhc%2Fpt-br%2Farticles%2F360056299454-O-que-a-Trybe-%25C3%25A9-&psig=AOvVaw2GB9xkrIGNnKyRMfXtV0LY&ust=1648585936776000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMigkqvT6fYCFQAAAAAdAAAAABAD"/>Web developer student at Trybe</p> 
+
+
 </br>
 <div align="left">
   <a href="https://github.com/crabominable">
