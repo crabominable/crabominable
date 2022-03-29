@@ -1,7 +1,6 @@
 ### Welcome to my profile!
 
 🖥️ - Web developer student at Trybe
-
 🧑‍💻 - Systems analyst and developer at Uninter
 
 </br>
