@@ -33,7 +33,7 @@ Oi, me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto de
 
 ![NextJS Badge](https://img.shields.io/badge/Next.js-1e262c?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Prisma Badge](https://img.shields.io/badge/-Prisma-eeeeee?style=for-the-badge&logo=prisma&logoColor=0c344b)
-![React Native Badge](https://img.shields.io/badge/-ReactNative-eeeeee?style=for-the-badge&logo=ReactNative&logoColor=0c344b)
+![React Native Badge](https://img.shields.io/badge/-ReactNative-eeeeee?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 </br>
 <div align="center"> 
