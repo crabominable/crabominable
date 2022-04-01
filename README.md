@@ -35,12 +35,12 @@ Oi, me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto de
 ![Prisma Badge](https://img.shields.io/badge/-Prisma-eeeeee?style=for-the-badge&logo=prisma&logoColor=0c344b)
 
 </br>
-<div align="left">
+<div align="center">
   <a href="https://github.com/crabominable">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=crabominable&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crabominable&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=crabominable&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crabominable&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
-
+ </br>
 <div> 
   <a href = "mailto:lucaspinheiroalberdanha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-pinheiro-alberdanha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
