@@ -1,8 +1,38 @@
-### Welcome to my profile!
 
-🖥️ - Web developer student at Trybe
+Oi, me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto de tecnologia desde pequeno, sempre interessado em aprender como funciona ou como arrumar as coisas. Nos últimos 2 anos estudo desenvolvimento web/software frequentemente. Como um desenvolvedor, adoro construir e aprender coisas novas, que possam impactar a vida das pessoas, e aprender tecnologias novas a cada vez mais incríveis. 🗡
 
-🧑‍💻 - Systems analyst and developer at Uninter
+- 💻 Desenvolvedor FullStack 
+- 👨‍🎓 Atualmente estudo Desenvolvimento Web na [Trybe](https://www.betrybe.com/) 🚀
+- 👨‍💻 Formado em análise e desenvolvimento de sistemas na [Uninter](https://www.uninter.com/) 🌐
+- 📑 Sempre tentando aprender algo novo todo dia 🔎
+- 📬 Para entrar em contato, por favor envie um email para `lucaspinheiroalberdanha@gmail.com` ou me chame no [Linkedin](linkedin.com/in/lucas-pinheiro-alberdanha)
+
+## Tecnologias que domino ou possuo conhecimento
+
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-FCC624?style=for-the-badge&logo=JavaScript&logoColor=323330)
+![Typescript Badge](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Docker Badge](https://img.shields.io/badge/Docker-082135?style=for-the-badge&logo=Docker&logoColor=blue)
+![Redux Badge](https://img.shields.io/badge/-Redux-212121?style=for-the-badge&logo=Redux&logoColor=7548bb)
+![Hooks Badge](https://img.shields.io/badge/-Hooks-%2320232a.svg?style=for-the-badge&logo=React&logoColor=%2361DAFB)
+![React Testing Library Badge](https://img.shields.io/badge/-RTL-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Mocha Badge](https://img.shields.io/badge/Mocha-8a6343?style=for-the-badge&logo=mocha&logoColor=white)
+![Chai Badge](https://img.shields.io/badge/Chai-f7e9c8?style=for-the-badge&logo=mocha&logoColor=a84d45)
+![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express Badge](https://img.shields.io/badge/-Express.js-green?style=for-the-badge&logo=Express&logoColor=black)
+![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![MongoDB Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Sequelize Badge](https://img.shields.io/badge/-Sequelize-eeeeee?style=for-the-badge&logo=sequelize&logoColor=00b1ea)
+![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
+
+## Tecnologias que tenho interesse ou ainda não domino
+
+![NextJS Badge](https://img.shields.io/badge/Next.js-1e262c?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Prisma Badge](https://img.shields.io/badge/-Prisma-eeeeee?style=for-the-badge&logo=prisma&logoColor=0c344b)
 
 </br>
 <div align="left">
@@ -10,17 +40,6 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=crabominable&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crabominable&layout=compact&langs_count=7&theme=outrun"/>
 </div>
-<!--<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Lucas-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-</div>-->
-
-##
 
 <div> 
   <a href = "mailto:lucaspinheiroalberdanha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
