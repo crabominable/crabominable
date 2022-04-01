@@ -1,15 +1,15 @@
-## Sobre mim
+### Sobre mim
 
 Olá! Me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto de tecnologia desde pequeno, sempre interessado em aprender como funciona ou como arrumar as coisas. Nos últimos 2 anos estudo desenvolvimento web/software constantemente. Como um desenvolvedor, adoro construir e aprender coisas novas, que possam impactar a vida das pessoas e aprender tecnologias novas cada vez mais incríveis. 🗡
 
-### - 💻 Desenvolvedor FullStack 
+- 💻 Desenvolvedor FullStack 
 - 🖥 Eu possuo um <a href="https://www.crabominable.github.io.com" target="_blank">portfólio web</a> aqui no github com alguns dos projetos que eu já fiz 
 - 👨‍🎓 Atualmente estudo Desenvolvimento Web na [Trybe](https://www.betrybe.com/) 🚀
 - 👨‍💻 Formado em análise e desenvolvimento de sistemas na [Uninter](https://www.uninter.com/) 🌐
 - 📑 Sempre tentando aprender algo novo todo dia 🔎
 - 📬 Para entrar em contato, por favor envie um email para `lucaspinheiroalberdanha@gmail.com` ou me chame no [Linkedin](linkedin.com/in/lucas-pinheiro-alberdanha)
 
-## Tecnologias que domino ou possuo conhecimento
+### Tecnologias que domino ou possuo conhecimento
 
 ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,7 +31,7 @@ Olá! Me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto 
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 
-## Tecnologias que tenho interesse ou ainda não domino
+### Tecnologias que tenho interesse ou ainda não domino
 
 ![NextJS Badge](https://img.shields.io/badge/Next.js-1e262c?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Prisma Badge](https://img.shields.io/badge/-Prisma-eeeeee?style=for-the-badge&logo=prisma&logoColor=0c344b)
