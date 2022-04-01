@@ -32,8 +32,6 @@ Olá! Me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto 
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 
-</br>
-
 ### Tecnologias que tenho interesse ou ainda não domino
 
 ![NextJS Badge](https://img.shields.io/badge/Next.js-1e262c?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -41,7 +39,6 @@ Olá! Me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto 
 ![React Native Badge](https://img.shields.io/badge/reactnative-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 </br>
-
 <div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crabominable&show_icons=true&theme=react" alt="dev-luizf" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crabominable&layout=compact&theme=react" alt="crabominable" />
