@@ -4,8 +4,8 @@ Olá! Me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto 
 
 - 💻 Desenvolvedor FullStack 
 - 🖥 Eu possuo um <a href="https://www.crabominable.github.io.com" target="_blank">portfólio web</a> aqui no github com alguns dos projetos que eu já fiz 
-- 👨‍🎓 Atualmente estudo Desenvolvimento Web na [Trybe](https://www.betrybe.com/) 🚀
-- 👨‍💻 Formado em análise e desenvolvimento de sistemas na [Uninter](https://www.uninter.com/) 🌐
+- 👨‍💻 Atualmente estudo Desenvolvimento Web na [Trybe](https://www.betrybe.com/)
+- 👨‍🎓 Formado em análise e desenvolvimento de sistemas na [Uninter](https://www.uninter.com/)
 - 📑 Sempre tentando aprender algo novo todo dia 🔎
 - 📬 Para entrar em contato, por favor envie um email para `lucaspinheiroalberdanha@gmail.com` ou me chame no [Linkedin](linkedin.com/in/lucas-pinheiro-alberdanha)
 
