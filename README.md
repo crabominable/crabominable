@@ -8,7 +8,7 @@ Olá! Me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto 
 - 👨‍💻 Formado em análise e desenvolvimento de sistemas na [Uninter](https://www.uninter.com/) 🌐
 - 📑 Sempre tentando aprender algo novo todo dia 🔎
 - 📬 Para entrar em contato, por favor envie um email para `lucaspinheiroalberdanha@gmail.com` ou me chame no [Linkedin](linkedin.com/in/lucas-pinheiro-alberdanha)
-</br>
+
 
 ### Tecnologias que domino ou possuo conhecimento
 
