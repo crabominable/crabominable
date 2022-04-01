@@ -7,8 +7,8 @@
 </br>
 <div align="left">
   <a href="https://github.com/crabominable">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=crabominable&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crabominable&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=crabominable&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crabominable&layout=compact&langs_count=7&theme=prussian"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
