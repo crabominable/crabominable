@@ -41,8 +41,8 @@ Olá! Me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto 
 ![React Native Badge](https://img.shields.io/badge/reactnative-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 </br>
+
 <div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crabominable&show_icons=true&theme=react" alt="dev-luizf" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crabominable&layout=compact&theme=react" alt="crabominable" />
 </div>
-</br>
