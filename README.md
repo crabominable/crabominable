@@ -9,8 +9,6 @@ Olá! Me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto 
 - 📑 Sempre tentando aprender algo novo todo dia 🔎
 - 📬 Para entrar em contato, por favor envie um email para `lucaspinheiroalberdanha@gmail.com` ou me chame no [Linkedin](linkedin.com/in/lucas-pinheiro-alberdanha)
 
-</br>
-
 ## Tech skills 🛠
 
 ### Tecnologias que domino ou possuo conhecimento
@@ -35,7 +33,7 @@ Olá! Me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto 
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 
-### Tecnologias que tenho interesse ou ainda não domino 🪛
+### Tecnologias que tenho interesse ou ainda não domino
 
 ![NextJS Badge](https://img.shields.io/badge/Next.js-1e262c?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Prisma Badge](https://img.shields.io/badge/-Prisma-eeeeee?style=for-the-badge&logo=prisma&logoColor=0c344b)
