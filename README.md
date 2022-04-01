@@ -1,3 +1,4 @@
+## Sobre mim
 
 Oi, me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto de tecnologia desde pequeno, sempre interessado em aprender como funciona ou como arrumar as coisas. Nos últimos 2 anos estudo desenvolvimento web/software frequentemente. Como um desenvolvedor, adoro construir e aprender coisas novas, que possam impactar a vida das pessoas, e aprender tecnologias novas a cada vez mais incríveis. 🗡
 
