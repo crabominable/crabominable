@@ -36,7 +36,7 @@ Oi, me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto de
 
 </br>
 <div align="center"> 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crabominable&layout=compact&langs_count=7&theme=aura_dark"/>
-  <img height="200em" src="https://githubreadmestats.vercel.app/apiusername=crabominable&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crabominable&show_icons=true&theme=omni" alt="dev-luizf" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crabominable&layout=compact&theme=omni" alt="crabominable" />
 </div>
 </br>
