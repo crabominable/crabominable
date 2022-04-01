@@ -23,7 +23,7 @@ Oi, me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto de
 ![Node Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express Badge](https://img.shields.io/badge/-Express.js-green?style=for-the-badge&logo=Express&logoColor=black)
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![MongoDB Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Sequelize Badge](https://img.shields.io/badge/-Sequelize-eeeeee?style=for-the-badge&logo=sequelize&logoColor=00b1ea)
 ![Docker Badge](https://img.shields.io/badge/Docker-082135?style=for-the-badge&logo=Docker&logoColor=blue)
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -33,7 +33,7 @@ Oi, me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto de
 
 ![NextJS Badge](https://img.shields.io/badge/Next.js-1e262c?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Prisma Badge](https://img.shields.io/badge/-Prisma-eeeeee?style=for-the-badge&logo=prisma&logoColor=0c344b)
-![React Native Badge](https://img.shields.io/badge/-ReactNative-eeeeee?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native Badge](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 </br>
 <div align="center"> 
