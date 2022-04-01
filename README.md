@@ -35,7 +35,7 @@ Oi, me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto de
 ![Prisma Badge](https://img.shields.io/badge/-Prisma-eeeeee?style=for-the-badge&logo=prisma&logoColor=0c344b)
 
 </br>
-<div align="center">
+<div align="justify">
   <a href="https://github.com/crabominable">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=crabominable&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crabominable&layout=compact&langs_count=7&theme=aura_dark"/>
