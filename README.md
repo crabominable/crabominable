@@ -21,8 +21,9 @@ Olá! Me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto 
 ![Redux Badge](https://img.shields.io/badge/-Redux-c9aed1?style=for-the-badge&logo=Redux&logoColor=7548bb)
 ![Hooks Badge](https://img.shields.io/badge/-Hooks-%2320232a.svg?style=for-the-badge&logo=React&logoColor=%2361DAFB)
 ![React Testing Library Badge](https://img.shields.io/badge/-RTL-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Jquery](https://img.shields.io/badge/jquery-e8f5ff.svg?style=for-the-badge&logo=jquery&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-efdaf5?style=for-the-badge&logo=bootstrap&logoColor=%A020F0)
+![Jquery Badge](https://img.shields.io/badge/jquery-e8f5ff.svg?style=for-the-badge&logo=jquery&logoColor=%2361DAFB)
+![Bootstrap Badge](https://img.shields.io/badge/bootstrap-efdaf5?style=for-the-badge&logo=bootstrap&logoColor=%A020F0)
+![Sass Badge](https://img.shields.io/badge/sass-%2320232a.svg?style=for-the-badge&logo=sass&logoColor=%2361DAFB)
 ![Mocha Badge](https://img.shields.io/badge/Mocha-8a6343?style=for-the-badge&logo=mocha&logoColor=white)
 ![Chai Badge](https://img.shields.io/badge/Chai-f7e9c8?style=for-the-badge&logo=mocha&logoColor=a84d45)
 ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -40,6 +41,8 @@ Olá! Me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto 
 ![NextJS Badge](https://img.shields.io/badge/Next.js-1e262c?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Prisma Badge](https://img.shields.io/badge/-Prisma-eeeeee?style=for-the-badge&logo=prisma&logoColor=0c344b)
 ![React Native Badge](https://img.shields.io/badge/reactnative-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tailwindcss Badge](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB)
+![Styled components Badge](https://img.shields.io/badge/styledcomponents-%2320232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=%2361DAFB)
 
 </br>
 <div align="center"> 
