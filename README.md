@@ -17,6 +17,7 @@ Olá! Me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto 
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-FCC624?style=for-the-badge&logo=JavaScript&logoColor=323330)
 ![Typescript Badge](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![Python Badge](https://img.shields.io/badge/python-1f5891.svg?style=for-the-badge&logo=rubyonrails&logoColor=eb4034)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux Badge](https://img.shields.io/badge/-Redux-c9aed1?style=for-the-badge&logo=Redux&logoColor=7548bb)
 ![Hooks Badge](https://img.shields.io/badge/-Hooks-404040.svg?style=for-the-badge&logo=React&logoColor=%2361DAFB)
@@ -39,11 +40,11 @@ Olá! Me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto 
 ### Tecnologias que tenho interesse ou ainda não domino
 
 ![NextJS Badge](https://img.shields.io/badge/Next.js-8c8c8c?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Rails Badge](https://img.shields.io/badge/rubyonrails-ffffff.svg?style=for-the-badge&logo=rubyonrails&logoColor=eb4034)
 ![Prisma Badge](https://img.shields.io/badge/-Prisma-eeeeee?style=for-the-badge&logo=prisma&logoColor=0c344b)
 ![React Native Badge](https://img.shields.io/badge/reactnative-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Tailwindcss Badge](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB)
 ![Styled components Badge](https://img.shields.io/badge/styledcomponents-2e2e2e.svg?style=for-the-badge&logo=styledcomponents&logoColor=ff7af8)
-![Rails Badge](https://img.shields.io/badge/rubyonrails-ffffff.svg?style=for-the-badge&logo=rubyonrails&logoColor=eb4034)
 
 </br>
 <div align="center"> 
