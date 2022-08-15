@@ -17,7 +17,7 @@ Olá! Me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto 
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-FCC624?style=for-the-badge&logo=JavaScript&logoColor=323330)
 ![Typescript Badge](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![Python Badge](https://img.shields.io/badge/python-1f5891.svg?style=for-the-badge&logo=python)
+![Python Badge](https://img.shields.io/badge/python-1f5891.svg?style=for-the-badge&logo=python&logoColor=edd928)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux Badge](https://img.shields.io/badge/-Redux-c9aed1?style=for-the-badge&logo=Redux&logoColor=7548bb)
 ![Hooks Badge](https://img.shields.io/badge/-Hooks-404040.svg?style=for-the-badge&logo=React&logoColor=%2361DAFB)
