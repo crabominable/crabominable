@@ -23,7 +23,7 @@ Olá! Me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto 
 ![Hooks Badge](https://img.shields.io/badge/-Hooks-404040.svg?style=for-the-badge&logo=React&logoColor=%2361DAFB)
 ![React Testing Library Badge](https://img.shields.io/badge/-RTL-666666.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Jquery Badge](https://img.shields.io/badge/jquery-e8f5ff.svg?style=for-the-badge&logo=jquery&logoColor=%2361DAFB)
-![Bootstrap Badge](https://img.shields.io/badge/bootstrap-efdaf5?style=for-the-badge&logo=bootstrap&logoColor=%A020F0)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Sass Badge](https://img.shields.io/badge/sass-%2320232a.svg?style=for-the-badge&logo=sass&logoColor=d93b94)
 ![Mocha Badge](https://img.shields.io/badge/Mocha-8a6343?style=for-the-badge&logo=mocha&logoColor=white)
 ![Chai Badge](https://img.shields.io/badge/Chai-f7e9c8?style=for-the-badge&logo=mocha&logoColor=a84d45)
@@ -41,12 +41,14 @@ Olá! Me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto 
 
 ### Tecnologias que tenho interesse ou ainda não domino
 
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![NextJS Badge](https://img.shields.io/badge/Next.js-8c8c8c?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Rails Badge](https://img.shields.io/badge/ruby_on_rails-ffffff.svg?style=for-the-badge&logo=rubyonrails&logoColor=eb4034)
 ![Prisma Badge](https://img.shields.io/badge/-Prisma-eeeeee?style=for-the-badge&logo=prisma&logoColor=0c344b)
 ![React Native Badge](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Tailwindcss Badge](https://img.shields.io/badge/tailwind_css-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB)
-![Styled components Badge](https://img.shields.io/badge/styled_components-2e2e2e.svg?style=for-the-badge&logo=styledcomponents&logoColor=ff7af8)
+![Tailwindcss Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 </br>
 <div align="center"> 
