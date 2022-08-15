@@ -37,7 +37,7 @@ Olá! Me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto 
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 ![Heroku Badge](https://img.shields.io/badge/-Heroku-ffffff?style=for-the-badge&logo=Heroku&logoColor=b212de)
-![AWS Badge](https://img.shields.io/badge/-aws-ffffff?style=for-the-badge&logo=AWS&logoColor=b212de)
+![AWS Badge](https://img.shields.io/badge/-Aws-ffffff?style=for-the-badge&logo=Aws&logoColor=b212de)
 
 ### Tecnologias que tenho interesse ou ainda não domino
 
