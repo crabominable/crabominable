@@ -42,11 +42,11 @@ Olá! Me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 20 anos. Gosto 
 ### Tecnologias que tenho interesse ou ainda não domino
 
 ![NextJS Badge](https://img.shields.io/badge/Next.js-8c8c8c?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Rails Badge](https://img.shields.io/badge/rubyonrails-ffffff.svg?style=for-the-badge&logo=rubyonrails&logoColor=eb4034)
+![Rails Badge](https://img.shields.io/badge/ruby_on_rails-ffffff.svg?style=for-the-badge&logo=rubyonrails&logoColor=eb4034)
 ![Prisma Badge](https://img.shields.io/badge/-Prisma-eeeeee?style=for-the-badge&logo=prisma&logoColor=0c344b)
-![React Native Badge](https://img.shields.io/badge/reactnative-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Tailwindcss Badge](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB)
-![Styled components Badge](https://img.shields.io/badge/styledcomponents-2e2e2e.svg?style=for-the-badge&logo=styledcomponents&logoColor=ff7af8)
+![React Native Badge](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tailwindcss Badge](https://img.shields.io/badge/tail_wind_css-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB)
+![Styled components Badge](https://img.shields.io/badge/styled_components-2e2e2e.svg?style=for-the-badge&logo=styledcomponents&logoColor=ff7af8)
 
 </br>
 <div align="center"> 
