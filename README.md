@@ -58,9 +58,9 @@ Olá! Me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 23 anos. Gosto 
 
 ### Tecnologias ou ferramentas que estou estudando ou possuo interesse
 
-![Angular Badge](https://img.shields.io/badge/Angular-CC0000?style=for-the-badge&logo=go&logoColor=white)
-![Vue Badge](https://img.shields.io/badge/Vue-green?style=for-the-badge&logo=go&logoColor=white)
-![Java Badge](https://img.shields.io/badge/Java-eeeeee?style=for-the-badge&logo=go&logoColor=white)
+![Angular Badge](https://img.shields.io/badge/Angular-CC0000?style=for-the-badge&logo=angular&logoColor=white)
+![Vue Badge](https://img.shields.io/badge/Vue-green?style=for-the-badge&logo=vue&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-eeeeee?style=for-the-badge&logo=java&logoColor=white)
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails Badge](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
