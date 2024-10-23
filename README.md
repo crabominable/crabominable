@@ -1,6 +1,6 @@
 ## Sobre mim 👋
 
-Olá! Me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 23 anos. Gosto de tecnologia desde pequeno, sempre interessado em aprender como funciona ou como arrumar as coisas. Nos últimos 3 anos estudo desenvolvimento web/software constantemente. Como um desenvolvedor, adoro construir e aprender coisas novas, que possam impactar a vida das pessoas e aprender tecnologias novas cada vez mais incríveis. 🗡
+Olá! Me chamo Lucas Pinheiro, sou do litoral do Paraná e tenho 23 anos. Gosto de tecnologia desde pequeno, sempre interessado em aprender como funciona ou como arrumar as coisas. Nos últimos 5 anos estudo desenvolvimento web/software constantemente. Como um desenvolvedor, adoro construir e aprender coisas novas, que possam impactar a vida das pessoas e aprender tecnologias novas cada vez mais incríveis. 🗡
 
 - 💻 Desenvolvedor FullStack 
 - 🖥 Eu possuo um <a href="https://crabominable.github.io/" target="_blank">portfólio web</a> aqui no github com alguns dos projetos que eu já fiz 
